@@ -7,7 +7,7 @@
 # First Contributions
 
 
-### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
+
 
 
 ## Tutorials Using Other Tools
@@ -19,7 +19,7 @@
 ## Self-Promotion
 
 If you liked this project, star it on [GitHub](https://github.com/Roshanjossey/first-contributions).
-If you're feeling especially charitable, follow [Roshan](https://roshanjossey.github.io/) on
+If you're feeling especially charitable, follow [nutout](https://roshanjossey.github.io/) on
 [Twitter](https://twitter.com/sudo__bangbang) and
 [GitHub](https://github.com/roshanjossey).
 
